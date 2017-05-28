@@ -1,0 +1,57 @@
+    div {
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    span {
+        padding-bottom: 10px;
+    }
+    .head {
+        color: f0f0f5;
+        background-color: #294052;
+        font-size: 36px;
+    }
+    .profile {
+        max-width: 17%;
+        max-height:17%;
+        padding: 40px;
+    }
+    .compact {
+        color: f0f0f5;
+        background-color: #294052;
+        font-size: 24px;
+        padding-bottom: 5in;
+    }
+    .c-header {
+        color: #e0e0eb;
+        background-color: #447294;
+        border-radius: 5px 5px 0px 0px;
+    }
+    .c-text {
+        color:#447294;
+        background-color: #e0e0eb;
+        border-radius: 0px 0px 5px 5px;
+        font-size: 18px;
+    }
+    .c-br {
+        padding-bottom: 100px;
+    }
+    .main {
+        color:#e0e0eb;
+        background-color: #294052;
+        font-size: 24px;
+        padding-bottom: 4in;
+    }
+    .main-header {
+        background-color: #447294;
+        color: #e0e0eb;
+        border-radius: 10px;
+        padding: 20px;
+        font-size: 18px;
+
+    }
+    .main-text {
+        background-color: #e0e0eb;
+        color:#447294;
+        font-size: 12px;
+        border-radius: 10px;
+        padding: 10px;
+    }
